@@ -1,0 +1,9 @@
+{
+  "filters": {},
+  "rules": {
+    "ja-hiragana-keishikimeishi": true,
+    "ja-no-redundant-expression": true,
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true
+  }
+}
