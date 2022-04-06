@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 価値
+# バリュー
 
 ## 何故
 
