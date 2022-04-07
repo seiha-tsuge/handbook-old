@@ -1,8 +1,8 @@
 ---
-sidebar_position: 10
+sidebar_position: 3
 ---
 
-# ツールと心得
+# Google
 
 ## 何故
 
