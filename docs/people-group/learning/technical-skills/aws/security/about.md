@@ -6,16 +6,42 @@ sidebar_position: 1
 
 AWS
 
-## 背景
+### ハンズオンの概要
 
-採用は、組織にとっての最重要課題の 1 つです。新入社員の存在は、チーム、文化、会社の方向性に影響を与えます。採用プロセスに時間やリソースを投資し、研究を重ねることが良い結果をもたらします。適切な人材を採用するには時間がかかることもありますが、採用判断を誤ると、結局はより高くついてしまう可能性もあります。
+[AWS Hands on for Beginners Security #1 ハンズオンの概要](https://www.youtube.com/watch?v=tpHWZHRnFdM)
 
-## 目的・使い方
+### AWS のセキュリティ
 
-採用に関してより良い最終判断¬を下すために、履歴書の評価から面接の練習までの採用プロセスに関わるすべての段階を活用しましょう。構造的な面接手法や採用委員会を設けるなどÒのプロセスは、良質な人材を長期にわたって確保するうえで有効な手段です。
+[AWS Hands-on for Beginners - Security #1 AWSのセキュリティ](https://www.youtube.com/watch?v=m1169w-rk3g)
 
-## 対象読者
+### IDアクセス権管理 (1)
 
-採用を担当する社員を主な対象とする。
+[AWS Hands-on for Beginners Security](https://www.youtube.com/watch?v=L0GGCzzpALw)
 
-## 本ハンドブックの構成
+### IDアクセス権管理 (2)
+
+[AWS Hands-on for Beginners - Security #1 IDアクセス権管理 (2)](https://www.youtube.com/watch?v=xUOeK5pjSkE)
+
+### 請求データの確認とアラート
+
+[AWS Hands-on for Beginners - Security #1 請求データの確認とアラート](https://www.youtube.com/watch?v=_cNyer3hci8)
+
+### 操作履歴とリソース変更履歴の記録
+
+[AWS Hands-on for Beginners - Security #1 操作履歴とリソース変更履歴の記録](https://www.youtube.com/watch?v=cyXiFDX6Nis)
+
+### 脅威検知
+
+[AWS Hands-on for Beginners - Security #1 脅威検知](https://www.youtube.com/watch?v=nI0TXEcip7Y)
+
+### ベストプラクティスの確認
+
+[AWS Hands-on for Beginners - Security #1 ベストプラクティスの確認](https://www.youtube.com/watch?v=mCBLwXVTh6U)
+
+### まとめ
+
+[AWS Hands-on for Beginners - Security #1 まとめ](https://www.youtube.com/watch?v=lteIz5EWm_s)
+
+### 作成したリソースの削除
+
+[AWS Hands-on for Beginners - Security #1 作成したリソースの削除](https://www.youtube.com/watch?v=sbaQxg-HjqM)
