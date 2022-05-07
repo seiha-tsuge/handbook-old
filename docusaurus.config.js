@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Anthea',
   tagline: 'Dinosaurs are cool',
   url: 'https://seiha-tsuge.github.io',
   baseUrl: '/handbook/',
@@ -43,10 +43,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Anthea',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Anthea Logo',
+          src: 'img/Anthea_logo.jpg',
         },
         items: [
           {
