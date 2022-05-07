@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://seiha-tsuge.github.io/handbook/blog</id>
-    <title>My Site Blog</title>
+    <title>Anthea Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://seiha-tsuge.github.io/handbook/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Anthea Blog</subtitle>
     <icon>https://seiha-tsuge.github.io/handbook/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
