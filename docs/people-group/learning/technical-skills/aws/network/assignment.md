@@ -55,3 +55,19 @@ sidebar_position: 2
 ## VPC ピアリング接続
 
 ## Transit Gateway接続
+
+## aws client VPN
+
+## virtual private gateway
+
+## aws direct connect
+
+## ルート伝搬
+
+## ACM
+
+## OpenVPN easy-rsa
+
+## サーバー証明書
+
+## クライアント証明書
