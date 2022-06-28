@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/handbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon.ico',
   organizationName: 'seiha-tsuge', // Usually your GitHub org/user name.
   projectName: 'handbook', // Usually your repo name.
 
@@ -46,7 +46,7 @@ const config = {
         title: 'Anthea',
         logo: {
           alt: 'Anthea Logo',
-          src: 'img/Anthea_logo.jpg',
+          src: 'img/anthea_logo.svg',
         },
         items: [
           {
